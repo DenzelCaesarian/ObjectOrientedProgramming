@@ -61,7 +61,6 @@ public class Main {
 		int distance;
 		int price;
 		int tempID;
-		char enterSpace;
 		
 		do {
 			System.out.print("Input route destination [Jakarta | Bogor | Depok | Tangerang | Bekasi] (case sensitive): ");
